@@ -138,7 +138,7 @@ body {
 
 @media (max-width: 650px) {
     body {
-        background-color: #fc0000;
+        background-color: rgb(253, 253, 253);
     }
 
     .instagram-wrapper {
